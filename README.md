@@ -83,11 +83,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [archive_20260505_064952](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/archive_20260505_064952)
 2 - [archive_20260505_070555](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/archive_20260505_070555)
 3 - [checkra1n](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n)
-4 - [checkra1n_gamma_20887](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n_gamma_20887)
+4 - [checkra1n beta 0.12.4](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n beta 0.12.4)
+5 - [checkra1n_gamma_20887](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n_gamma_20887)
 
 ---
