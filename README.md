@@ -85,6 +85,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [archive_20260505_064952](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/archive_20260505_064952)
@@ -92,5 +94,6 @@ a
 3 - [checkra1n](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n)
 4 - [checkra1n beta 0.12.4](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n beta 0.12.4)
 5 - [checkra1n_gamma_20887](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n_gamma_20887)
+6 - [v2rayN-windows-64](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/v2rayN-windows-64)
 
 ---
