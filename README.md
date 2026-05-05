@@ -77,8 +77,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [checkra1n](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n)
+1 - [archive_20260505_064952](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/archive_20260505_064952)
+2 - [checkra1n](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n)
 
 ---
