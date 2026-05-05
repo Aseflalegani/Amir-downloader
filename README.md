@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1 - [checkra1n](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/checkra1n)
+
+---
