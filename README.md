@@ -91,8 +91,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [zyrln-windows-amd64](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/zyrln-windows-amd64)
+1 - [zyrln-1.4.0](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/zyrln-1.4.0)
+2 - [zyrln-windows-amd64](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/zyrln-windows-amd64)
 
 ---
