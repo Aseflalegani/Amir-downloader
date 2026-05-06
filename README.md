@@ -89,8 +89,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [v2rayN-windows-64](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/v2rayN-windows-64)
+1 - [zyrln-windows-amd64](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/zyrln-windows-amd64)
 
 ---
