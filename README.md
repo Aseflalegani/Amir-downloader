@@ -97,8 +97,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [v2rayN-windows-64-desktop](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/v2rayN-windows-64-desktop)
+1 - [v2.0.1](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/v2.0.1)
+2 - [v2rayN-windows-64-desktop](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/v2rayN-windows-64-desktop)
 
 ---
