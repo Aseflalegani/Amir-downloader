@@ -95,10 +95,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [mhrv-rs-android-universal-v1.9.15](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.15)
-2 - [zyrln-1.4.0](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/zyrln-1.4.0)
-3 - [zyrln-windows-amd64](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/zyrln-windows-amd64)
+1 - [v2rayN-windows-64-desktop](https://github.com/Aseflalegani/Amir-downloader/tree/main/downloads/v2rayN-windows-64-desktop)
 
 ---
